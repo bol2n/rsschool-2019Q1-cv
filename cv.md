@@ -32,7 +32,7 @@ function array(arr) {
 }
 ```
 ## Experience
-I finished сourses with the basics of HTML5 and CSS at [Codecademy](https://www.codecademy.com/users/bol2n/achievements). In addition i completed HTML and CSS fundamentals courses with Sololearn. Currently i practice at [Codewars](https://www.codewars.com/users/bol2n/completed).
+I finished сourses with the basics of HTML5 and CSS at [Codecademy](https://www.codecademy.com/users/bol2n/achievements). In addition i completed [HTML](https://bol2n.github.io/files/cert-1014-10707903.jpg) and [CSS](https://bol2n.github.io/files/cert-1023-10707903.jpg) fundamentals courses with Sololearn. Currently i practice at [Codewars](https://www.codewars.com/users/bol2n/completed).
 ## Education
 Now i am training at HTML Academy and freeCodeCamp. Also for studying i use such resources as:
 
