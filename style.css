@@ -19,12 +19,12 @@ html {
     display: flex;
     justify-content: center;
 }
-/*
+
 body {
     max-width: 1024px;
     font-family: 'Maven', sans-serif, sans-serif;
     font-weight: 400;
-}*/
+}
  
 header {
     background-color: teal;
